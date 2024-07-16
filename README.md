@@ -13,7 +13,7 @@ Agora, seguinda uma paixão antiga, busco ter experiência no mercado tech.
 
 
 ## Habilidades
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rtlima83&layout=compact&bg_color=002&border_color=30A3&title_color=E94F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rtlima83&layout=compact&cache_seconds=86400&theme=dracula)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
@@ -33,7 +33,7 @@ Agora, seguinda uma paixão antiga, busco ter experiência no mercado tech.
 
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rtlima83&theme=transparent&bg_color=002&border_color=30A3&show_icons=true&icon_color=30A3DC&title_color=E94F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rtlima83&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula)
 
 ## Minhas contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rtlima83&repo=dio-lab-open-source&bg_color=002&border_color=30A3&show_icons=true&icon_color=30A3DC&title_color=E94D&text_color=FFF)](https://github.com/rtlima83/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rtlima83&repo=dio-lab-open-source&cache_seconds=86400&theme=dracula)](https://github.com/rtlima83/dio-lab-open-source)
